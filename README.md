@@ -2,9 +2,6 @@
 AUTOMATIC RAILWAY GATE
 
 ## 📌 Project Overview
-
-**ABSTRACT **
-
 The main aim of this project is to operate and control the unmanned railway gate in the proper 
 manner in order to avoid the accidents in the unmanned railway crossing. In a country like ours 
 where there are many unmanned railway crossings, accidents are increasing day by day. These 
@@ -19,7 +16,7 @@ near by the railway gate then the microcontroller automatically activates the al
 alerts the passengers.This can be implemented in manned level crossings also, as manual errors 
 can be eliminated by automation. 
 
-## **INTRODUCTION**
+## INTRODUCTION
 
 Railways being safest and cheapest modes of transportation are preferred over all the other 
 means of transport. So, it is essential to maintain and improve the current level of safety. A safe 
